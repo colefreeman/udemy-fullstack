@@ -1,3 +1,4 @@
 node_modules
-keys.js
 google-oauth2-secrets.json
+google-oauth2-secrets-prod.json
+dev.js
